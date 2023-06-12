@@ -1,1 +1,3 @@
 # BMICalculator
+
+This is a little project to get the Body Mass Index...
